@@ -31,6 +31,7 @@
       {
         "id": "1c4c477d2d37419d",
         "type": "tabs",
+        "dimension": 67.40384615384616,
         "children": [
           {
             "id": "985bceb77941651d",
@@ -48,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "calendar",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,12 +66,26 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "97e5cec9abbc7ab8",
+        "type": "tabs",
+        "dimension": 32.59615384615385,
+        "children": [
+          {
+            "id": "6ce64dfd4a5e6d59",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 338.5
   },
   "right": {
     "id": "31e0b16362c55bdb",
@@ -129,20 +144,13 @@
                 "file": "2024-04-28.md"
               }
             }
-          },
-          {
-            "id": "6ce64dfd4a5e6d59",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 348.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,7 +162,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fc72bee06f781321",
+  "active": "a28832227b89f9cb",
   "lastOpenFiles": [
     "2024-04-28.md"
   ]
