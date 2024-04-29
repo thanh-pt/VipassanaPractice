@@ -14,13 +14,5 @@
       ],
       "key": "ArrowDown"
     }
-  ],
-  "obsidian-git:commit": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "S"
-    }
   ]
 }
