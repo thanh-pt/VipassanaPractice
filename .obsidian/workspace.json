@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "45de4db90144fdf1",
+        "id": "0d66f0fa045ba229",
         "type": "tabs",
         "children": [
           {
-            "id": "a28832227b89f9cb",
+            "id": "1cda4f34a2c665e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -144,13 +144,21 @@
                 "file": "2024-06-20.md"
               }
             }
+          },
+          {
+            "id": "a062ab1f172f26dc",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 348.5
+    "width": 526.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,9 +170,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a28832227b89f9cb",
+  "active": "1cda4f34a2c665e9",
   "lastOpenFiles": [
-    "2024-04-28.md",
-    "2024-06-20.md"
+    "2024-06-20.md",
+    "2024-04-28.md"
   ]
 }
